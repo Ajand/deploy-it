@@ -5,9 +5,9 @@ import DescriptedRadio from "./general/DescriptiedRadio";
 
 import PermissionsBox from "./roles/PermissionsBox";
 
-import Stepper from "./stepper/Stepper";
-import StepperHeader from "./stepper/StepperHeader";
-import StepperAction from "./stepper/StepperAction";
+import Stepper from "./Stepper/Stepper";
+import StepperHeader from "./Stepper/StepperHeader";
+import StepperAction from "./Stepper/StepperAction";
 
 import DAOHeader from "./daos/DAOHeader";
 import DAOCard from "./daos/DAOCard";

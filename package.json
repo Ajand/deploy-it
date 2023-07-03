@@ -1,0 +1,34 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@erc725/erc725.js": "^0.17.2",
+    "@faker-js/faker": "^8.0.2",
+    "@lukso/lsp-factory.js": "^2.5.0",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.12",
+    "@mui/x-date-pickers": "^6.1.0",
+    "axios": "^1.3.4",
+    "crypto-js": "^4.1.1",
+    "ethers": "5.4",
+    "faker": "^6.6.6",
+    "moment": "^2.29.4",
+    "next": "13.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "web3": "^1.8.2"
+  },
+  "devDependencies": {
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.3"
+  }
+}
